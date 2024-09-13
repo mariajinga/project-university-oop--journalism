@@ -1,4 +1,4 @@
-# Web App for Managing Bug Fixes | Aplicație Web pentru Gestionarea Bug-urilor
+# App Object Oriented Programming Journalism
 
 *******************************************************
 
