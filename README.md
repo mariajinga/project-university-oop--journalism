@@ -10,7 +10,7 @@
 *******************************************************
 
 ## Overview | Prezentare Generală
-*"JOURNALISM" - my initials "J" and "M"*
+*"JOURNALISM" - my initials "J" and "M"*      
 *"JURNALISM" - intialele mele "J" si "M"*
 
 In this project, I developed an application that models various aspects of journalism using object-oriented programming in C++. The main focus of my project is the management and processing of information related to news, reporters, and other media team members (operators, editors, sound technicians).
