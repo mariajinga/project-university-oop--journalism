@@ -1,0 +1,9 @@
+﻿  Jurnalism.cpp
+C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Jurnalism.cpp(647,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Jurnalism.cpp(1278,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Jurnalism.cpp(1640,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Jurnalism.cpp(1999,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Jurnalism.cpp(2131,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Jurnalism.cpp(2445,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Jurnalism.cpp(3294,9): warning C4101: 'rf': unreferenced local variable
+  Proiect Poo.vcxproj -> C:\Users\Maria Jinga\Desktop\poo\Proiect Poo\Debug\Proiect Poo.exe
