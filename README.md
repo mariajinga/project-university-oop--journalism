@@ -1,4 +1,4 @@
-# App Object Oriented Programming Journalism
+# App - Object Oriented Programming - Journalism
 
 *******************************************************
 
